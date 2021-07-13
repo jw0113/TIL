@@ -9,3 +9,4 @@ __Today I Learned__
 ## Digital Forensic with CTF
 ---
 + [우리는 적군에 대한 첩보를...](./CTF/ctf1.md)
++ [Jensen 사건을 맡게 된...](./CTF/ctf2.md)
