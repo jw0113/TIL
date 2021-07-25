@@ -11,6 +11,7 @@ __Today I Learned__
 + [우리는 적군에 대한 첩보를...](./CTF/ctf1.md)
 + [Jensen 사건을 맡게 된...](./CTF/ctf2.md)
 + [Betty는 Gregory와 함께...](./CTF/ctf3.md)
++ [Betty는 Gregory를 만나는 것...](CTF/ctf4.md)
 
 ## Spring
 ---
