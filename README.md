@@ -27,6 +27,7 @@ __Today I Learned__
 
 ## Network
 ---
++ [네트워크 기초](./network/networkbasic.md)
 + [IP Address](./network/ip_address.md)
 
 <br>
