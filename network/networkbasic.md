@@ -65,3 +65,18 @@ ___
 + Broadcast로 동작한다.
 + 동작 원리 : 출발지 PC는 목적지의 IP주소만 가지고 있기 때문에 연결된 모든 장비에 ARP를 보내 (Broadcast) 해당 IP의 MAC주소를 알아낸다. 이때, 목적지 IP가 아닌 장비들은 ARP를 폐기시킨다.
 + 2계층 프로토콜
+
+---
+### __OSI 7계층 모델 : 앞으로 개발될 프로토콜의 표준적인 뼈대를 제공하는 참조 모델__
+7. Application Layer (응용계층)
+   - 사용자 인터페이스
+   - 사용자와 가장 가까운 프로토콜 정의
+   - ex) Http(80), FTP(20,21), Telnet(23), SHTP(25), DNS(53), TFTP(69)
+8. Presentation Layer (표현계층)
+9.  Session Layer (세션계층)
+10. Transport Layer (전송계층)
+11. Network Layer (네트워크 계층)
+12. Data Link Layer (데이터링크 계층)
+13. Physical Layer (물리 계층)
+
+### __TCP/IP 모델 : 실질적으로 사용되는 프로토콜__
