@@ -34,14 +34,14 @@
    - 라우터의 기본 시작 형태
    - 형태 : Router >
   
-2. Priviliege Mode
-   - User Mode에서 enable(en)을 입력하면 Priviliege Mode로 변환 가능
+2. Privilege Mode
+   - User Mode에서 enable(en)을 입력하면 Privilege Mode로 변환 가능
    - 라우터의 설정을 확인하거나 연결 테스트 진행 가능
    - BUT, 설정 변경은 불가능
    - 형태 : Router #
   
 3. Global Configuration Mode
-   - Priviliege Mode에서 configure terminal(conf t) 입력하면 Global Configuration Mode로 변환 가능
+   - Privilege Mode에서 configure terminal(conf t) 입력하면 Global Configuration Mode로 변환 가능
    - 라우터의 설정 진행 가능
    - 형태 : Router(config) #
 
