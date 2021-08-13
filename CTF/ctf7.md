@@ -6,3 +6,19 @@ Mrs. Jensen은 이 이상한 이메일을 더 자세히 보기로 결심한다. 
 악성 페이로드의 용량은 몇 Byte인가?
 ```
 ---
+
+### __파일 : round6.pcap__
+<br>
+해당 파일을 Wrieshark와 NetworkMiner 프로그램을 이용하여 실행한다.
+<br>
+의심스러운 파일이 존재함을 알 수 있다.<br><br>
+
+### __NetworkMiner에서 6개의 파일 발견__
+6개의 파일에 바이러스가 존재하는지 검사한다.<br>
+바이러스 검사 사이트 : https://www.virustotal.com/gui/home/upload
+
+### __바이러스 존재 파일 발견하여 해당 파일의 용량을 확인한다.__
+
+<br>
+
+### __정답 : 3113__
