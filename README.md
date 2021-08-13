@@ -34,6 +34,7 @@ __Today I Learned__
 + [Router](./network/router.md)
 + [Routing Protocol](./network/routing_protocol.md)
 + [RIP](./network/rip.md)
++ [OSPF](./network/ospf.md)
 
 <br>
 
