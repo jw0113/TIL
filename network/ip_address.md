@@ -58,7 +58,9 @@ ___
 
 <br><br>
 
-### __Classful : Subnet Mask 기준으로 네트워크를 표현한 것__
+### __Classful : 라우팅 업데이트 정보에 subnet mask를 포함하지 않는 것__
+
+### __Classless : 라우팅 업데이트 정보에 subnet mask를 포함한 것__
 
 ### __Subneting : IP를 효율적으로 낭비없이 분배하기 위해 Broadcast Domain의 크기를 작게 나누는 방법 (CLassful Network를 여러개의 Network로 나누는 것)__
 + subneting할 땐 Network의 Host개수가 동일하게 진행되어야 한다.
