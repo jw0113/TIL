@@ -39,5 +39,5 @@ __Today I Learned__
 
 <br>
 
-## Python
+## Python Challenge
 ---
