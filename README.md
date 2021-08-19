@@ -37,6 +37,7 @@ __Today I Learned__
 + [RIP](./network/rip.md)
 + [OSPF](./network/ospf.md)
 + [EIGRP](./network/EIGRP.md)
++ [Telnet](./network/telnet.md)
 
 <br>
 
