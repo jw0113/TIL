@@ -43,3 +43,4 @@ __Today I Learned__
 
 ## Python Challenge
 ---
++ [Python Challenge 0](./python_challenge/challenge0.md)
