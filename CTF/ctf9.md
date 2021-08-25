@@ -16,7 +16,7 @@ Jack이 사건을 마무리 짓고 있을 때, 그는 수수께끼가 아직 끝
 
 <br><br>
 
-### __Wireshark에서 RTP 확인하는 방법
+### __Wireshark에서 RTP 확인하는 방법__
 1. [Telephony] - [RTP] - [RTP Stream] : RTP packet들을 모두 볼 수 있고 각 packet별로 분석하여 음성을 들을 수 있다.
 2. [Telephony] - [RTP] - [Stream Analyze] : 모든 packet들을 분석하여 주고 받은 모든 음성을 들을 수 있다.
 
