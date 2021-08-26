@@ -17,6 +17,7 @@ __Today I Learned__
 + [Mrs. Jensen은 이 이상한 이메일을 더 자세히...](./CTF/ctf7.md)
 + [Mrs. Jensen은 이 이상한 이메일을 더 자세히 보기로 결심한다...](./CTF/ctf8.md)
 + [Jack이 사건을 마무리 짓고 있을 때, 그는...](./CTF/ctf9.md)
++ [사건을 수락해 주셔서 감사합니다...](./CTF/ctf10.md)
 
 <br>
 
@@ -25,6 +26,7 @@ __Today I Learned__
 + [DI 기초](./spring/di.md)
 + [웹 프로그래밍 설계 모델](./spring/mvc.md)
 + [Controller](./spring/controller.md)
+
 
 
 <br>
