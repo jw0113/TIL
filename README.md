@@ -42,6 +42,7 @@ __Today I Learned__
 + [EIGRP](./network/EIGRP.md)
 + [Telnet](./network/telnet.md)
 + [ACL](./network/acl.md)
++ [NAT-PAT,DHCP](./)
 
 <br>
 
