@@ -1,3 +1,14 @@
 ## __NAT-PAT,DHCP__
 ---
-### __ NAT (Network Address Tranlation)__
+
+### __NAT (Network Address Tranlation)__
++ 내부 네트워크에서는 사설 IP를 사용하고, 외부 네트워크로 나가는 경우에는 공인 IP로 변환해서 나가게 하는 기술
++ 공인 IP의 부족으로 인해 사용한다.
++ 외부 네트워크로 나가는 경우 실제 출발지 주소가 아닌 다른 주소로 변환해서 나가기 때문에 내부 네트워크 정보는 공개되지 않는다.
++ 외부에서 내부 사설망으로의 접근이 힘들기 때문에 보안적이다.
+
+<br><br>
+
+### __NAT 종류__
+1. Static NAT
+2. Dynamic NAT
