@@ -11,4 +11,6 @@
 
 ### __NAT 종류__
 1. Static NAT
+   + 사설 IP주소와 공인 IP주소 간에 일대일 Mapping
 2. Dynamic NAT
+   + 사설 IP 그룹과 공인 IP 그룹 간의 그룹 대 그룹으로 Mapping
