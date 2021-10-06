@@ -40,6 +40,10 @@ std::cout << "num의 값 : " << num << std::endl;
 <br>
 
 ### __초기화__
+1. 복사 초기화 (copy initialization)
+2. 직접 초기화 (direct initialization)
+3. 유니폼 초기화 (uniform initialization)
+
 ```c++
 // 초기화
 int num = 20;
@@ -51,8 +55,12 @@ std::cout << "직접 초기화한 num의 값 : " << num1 << std::endl;
 int num2(num1);
 std::cout << "초기화 값이 변수인 num2의 값 : " << num2 << std::endl;
 
+int num3{20};
+std::cout << "유니폼 초기화한 num3의 값 : " << num3 << std::endl;
+
 // <결과>
 // 복사 초기화한 num의 값 : 20
 // 직접 초기화한 num의 값 : 20
 // 초기화 값이 변수인 num2의 값 : 20
+// 유니폼 초기화한 num3의 값 : 20
 ```
