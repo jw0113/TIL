@@ -64,4 +64,5 @@ __Today I Learned__
 ## C++
 ---
 + [Basic](./c++/basic.md)
++ [boolean / 입력문](./c++/boolean_입력문.md)
 
