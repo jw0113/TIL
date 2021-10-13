@@ -90,5 +90,30 @@ std::cout << "출력 : " << str << std::endl;
 
 // <결과>
 // 입력 : 
-// 출력 : 
+// 출력 :
+```
+
+<br>
+
+### __공백 포함 문자열 입력 받기__
++ std::cin.getline() 함수로 공백 포함 문자열을 입력 받을 수 있다.
++ std::cin.getline() 함수의 첫 번째 매개변수는 저장할 공간, 두 번째 매개변수는 최대 크기이다.
+
+```c++
+// 공백 포함 문자열 입출력 문제
+// Enter가 입력될 때까지 계속해서 입력 받는 프로그램 작성
+
+#include <iostream>
+int main() {
+    char str[100]
+    std::cout << "문자열 입력 : ";
+    std::cin.getline(str,100);
+    std::cout << "문자열 출력 : " << str << std::endl;
+
+    return 0;
+}
+
+// <결과>
+// 문자열 입력 : Hello world
+// 문자열 출력 : Hello world
 ```
