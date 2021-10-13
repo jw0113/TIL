@@ -65,4 +65,5 @@ __Today I Learned__
 ---
 + [Basic](./c++/basic.md)
 + [boolean / 입력문](./c++/boolean_입력문.md)
++ [str::string](./c++/string.md)
 
