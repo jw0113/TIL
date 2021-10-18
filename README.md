@@ -70,4 +70,4 @@ __Today I Learned__
 
 ## Linux2
 ---
-+ [환경설정]
++ [환경설정](./Linux2/환경설정.md)
