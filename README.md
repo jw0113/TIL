@@ -68,3 +68,6 @@ __Today I Learned__
 + [str::string](./c++/string.md)
 + [문자열](./c++/문자열.md)
 
+## Linux2
+---
++ [환경설정]
